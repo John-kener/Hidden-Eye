@@ -15,6 +15,8 @@
 
 `https://drive.google.com/file/d/1H-6U0jLZbhA2zdu6R2FBvI7mJ4e4eio7/view?usp=drivesdk`
 
+### AFTER DOWNLOADING
+
 `apt update && apt upgrade`
 
 `pkg install git`
