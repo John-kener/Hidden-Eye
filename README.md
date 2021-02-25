@@ -3,7 +3,7 @@
 වීඩියො එකෙ බැලුවේ නැත්නම් අනිවාර්යයෙන් බලන්න
 (මේ ෆොටෝ එක උඩ touch කරන්න )
 
-<a href="YOUTUBE LINK">
+<a href="https://youtu.be/at1Qlwxfjyc">
   <img align="middle" width="4000px" src="https://github.com/John-kener/John-kener/blob/main/Photo_1614067468566.png" />
 </a>
 
